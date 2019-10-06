@@ -20,6 +20,7 @@ This  project just for crawling comment, caption, likes and do that for follower
 + Clone or download this repository
 + Install python and library instaloader and pandas
 > pip install instaloader
+
 > pip install pandas
 + Open file ['PKB.py'] with idle python 
 + Write username IG that you want to craw data in 'username' space. Like : "jktinfo"
