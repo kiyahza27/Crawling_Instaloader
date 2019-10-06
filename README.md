@@ -11,6 +11,7 @@ Dengan bantuan dokumentasi instaloader kami bisa menjalankan program ini.
 # Cara Kerja 
 Hal yang pertama di lakukan adalah menginstall instaloader di CMD
 > pip install instaloader
+
 Data yang sudah diambil diubah ke dalam bentuk tabel. 
 > pip install pandas
 
